@@ -11,3 +11,7 @@ It includes a small "Hello, World!" program and serves as a starting point for e
 # Playing Cards
 
 This project implements a simple playing card deck in Go, with support for creating, shuffling, dealing, saving, and loading decks from a file. It was built as a learning exercise to practice Go fundamentals, including custom types, methods, slices, file I/O, error handling, and unit testing.
+
+# Structs
+
+This project demonstrates Go structs, struct embedding, and methods by modeling a `person` with embedded contact information. It also illustrates the use of pointer receivers to modify struct fields and value receivers to display data.

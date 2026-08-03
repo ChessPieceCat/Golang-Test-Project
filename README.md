@@ -10,4 +10,4 @@ It includes a small "Hello, World!" program and serves as a starting point for e
 
 # Playing Cards
 
-This project is a small Go exercise focused on modeling a deck of cards, shuffling it, and dealing hands. It helps practice core Go concepts such as structs, methods, and slices. 
+This project implements a simple playing card deck in Go, with support for creating, shuffling, dealing, saving, and loading decks from a file. It was built as a learning exercise to practice Go fundamentals, including custom types, methods, slices, file I/O, error handling, and unit testing.

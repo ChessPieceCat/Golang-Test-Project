@@ -15,3 +15,7 @@ This project implements a simple playing card deck in Go, with support for creat
 # Structs
 
 This project demonstrates Go structs, struct embedding, and methods by modeling a `person` with embedded contact information. It also illustrates the use of pointer receivers to modify struct fields and value receivers to display data.
+
+# Map
+
+This is a simple example of a map in Go including various methods of initialization, adding/deleting keys and values, and iterating over it.

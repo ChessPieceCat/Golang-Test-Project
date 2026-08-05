@@ -27,3 +27,11 @@ This directory demonstrates implementation of a basic interface to work with two
 # http
 
 This project demonstrates Go interfaces by implementing the `io.Writer` interface to read and display the contents of an HTTP response using `io.Copy`.
+
+# Interfaces 2
+
+This project demonstrates Go interfaces by calculating the area of different shapes through a shared `shape` interface.
+
+# Interfaces 3
+
+This project demonstrates basic file I/O in Go by reading the contents of a file specified via a command-line argument and writing it to standard output using `io.Copy`.

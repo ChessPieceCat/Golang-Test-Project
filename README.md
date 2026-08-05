@@ -35,3 +35,7 @@ This project demonstrates Go interfaces by calculating the area of different sha
 # Interfaces 3
 
 This project demonstrates basic file I/O in Go by reading the contents of a file specified via a command-line argument and writing it to standard output using `io.Copy`.
+
+# Channels
+
+This project demonstrates Go concurrency by using goroutines and channels to periodically check the availability of multiple websites.

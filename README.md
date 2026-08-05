@@ -19,3 +19,11 @@ This project demonstrates Go structs, struct embedding, and methods by modeling 
 # Map
 
 This is a simple example of a map in Go including various methods of initialization, adding/deleting keys and values, and iterating over it.
+
+# Interfaces
+
+This directory demonstrates implementation of a basic interface to work with two different types.
+
+# http
+
+This project demonstrates Go interfaces by implementing the `io.Writer` interface to read and display the contents of an HTTP response using `io.Copy`.
